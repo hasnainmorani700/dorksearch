@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Dork Searcher",
+  "description": "An application to generate advanced Google dork search queries to find content on the internet, specifically targeting open directories.",
+  "requestFramePermissions": []
+}
